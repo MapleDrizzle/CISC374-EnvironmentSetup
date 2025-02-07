@@ -5,7 +5,7 @@ public class MainCameraController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("What kind of computer is the best singer? A Dell");
+        Debug.Log("Which way did the programmer go? He went data way");
     }
 
     // Update is called once per frame
